@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAppB2</string>
+    <string name="no_results">Список пуст 😓</string>
+    <string name="retry">Повторить</string>
+</resources>
